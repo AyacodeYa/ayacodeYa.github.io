@@ -10,5 +10,5 @@ M.E., School of Mathematics and Artificial Intelligence, Qilu University of Tech
 B.E., School of Information Science and Technology, Shandong Agricultural and Engineering University, 2019—2023.
 
 #### Research Interests
-Computer Vision,Reinforcement Learning, Artificial Intelligence.
+AI,Large Lauguage Model,Computer Vision,Reinforcement Learning.
 
